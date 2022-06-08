@@ -1,8 +1,10 @@
 import './App.css';
 import Courses from './components/Courses';
-import Headers from './components/Header'
+import Headers from './components/Header';
 import Main from './components/Main';
 import Footer from './components/Footer';
+
+// functional component
 
 function App() {
   return (
