@@ -10,6 +10,8 @@ function app() {
       <Sensei name="DEOLA" age="22" />
       <Sensei name="KEJI" age="30"/>
       <Sensei name="SEGUN" age="47"/>
+
+      <button>SWITCH</button>
     </div>
   );
 }
