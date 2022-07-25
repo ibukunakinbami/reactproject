@@ -1,9 +1,12 @@
-import React from "react";
+import React from 'react'
 
-function person (props){
-    return(
+function Person() {
+  return (
+    <div>
         <p>my name is {props.name} and am {props.age} years Old</p>
-    )
+        
+    </div>
+  )
 }
 
-export default person;
+export default Person
